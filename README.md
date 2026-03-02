@@ -6,7 +6,9 @@ Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em apr
   
 ![Visitors](https://komarev.com/ghpvc/?username=AzureSect&color=blueviolet&style=for-the-badge)
 
-</div>---
+</div>
+
+---
 
 ## 🛠 Minhas Ferramentas
 
