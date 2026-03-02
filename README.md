@@ -2,8 +2,11 @@
 
 Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em aprimorar minhas habilidades com **JAVA** e tecnologias WEB.
 
-<img src="https://komarev.com/ghpvc/?username=AzureSect&color=blueviolet&style=for-the-badge" alt="Visitors" />
----
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=AzureSect&color=blueviolet&style=for-the-badge)
+
+</div>---
 
 ## 🛠 Minhas Ferramentas
 
