@@ -1,4 +1,9 @@
-# Olá, eu sou @AzureSect! 👋
+<div align="center">
+  <h1>Olá, eu sou o AzureSect! 👋</h1>
+  <p>Desenvolvedor em busca de aprendizado contínuo, focado em <strong>Java</strong> e tecnologias Web.</p>
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=AzureSect&color=blueviolet&style=for-the-badge)
+</div>
 
 ## 👨‍💻 Sobre Mim
 Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em aprimorar minhas habilidades com **JAVA** e tecnologias WEB.
@@ -17,4 +22,5 @@ Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em apr
 
 
 ## 📫 Como me contactar
-* **E-mail:** nunes.omv@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunes.omv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nunes-marcos/)
