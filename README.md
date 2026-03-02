@@ -15,7 +15,7 @@ Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em apr
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-five-eta-37.vercel.app/api?username=AzureSect&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-five-eta-37.vercel.app/api?username=AzureSect&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=html,css" />
   <img height="180em" src="https://github-readme-stats-five-eta-37.vercel.app/api/top-langs/?username=AzureSect&layout=compact&theme=radical" />
   <img height="180em" src="https://streak-stats.demolab.com?user=AzureSect&theme=radical" />
 </div>
