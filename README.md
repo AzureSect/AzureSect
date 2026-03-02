@@ -14,5 +14,9 @@ Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em apr
 ## 📈 GitHub Stats
 ![Estatísticas do AzureSect](https://github-readme-stats-five-eta-37.vercel.app/api?username=AzureSect&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-five-eta-37.vercel.app/api/top-langs/?username=AzureSect&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AzureSect&theme=radical)](https://git.io/streak-stats)
+
 ## 📫 Como me contactar
 * **E-mail:** nunes.omv@gmail.com
