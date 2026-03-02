@@ -1,11 +1,3 @@
-<div align="center">
-  <h1>Olá, eu sou o AzureSect! 👋</h1>
-  <p>Desenvolvedor em busca de aprendizado contínuo, focado em <strong>Java</strong> e tecnologias Web.</p>
-  <img src="https://komarev.com/ghpvc/?username=AzureSect&color=blueviolet&style=for-the-badge" alt="Visitors" />
-</div>
-
----
-
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor em busca de aprendizado contínuo, atualmente focado em aprimorar minhas habilidades com **JAVA** e tecnologias WEB.
